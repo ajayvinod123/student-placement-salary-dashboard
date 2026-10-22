@@ -59,8 +59,7 @@ student-placement-salary-dashboard/
 │
 ├── Student_Placement_Salary_Dashboard.xlsx
 ├── README.md
-└── screenshots/
-    └── dashboard.png
+└── dashboard.png
 ```
 
 ## 🖼️ Dashboard Preview
