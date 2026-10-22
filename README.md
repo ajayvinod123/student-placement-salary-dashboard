@@ -90,8 +90,3 @@ student-placement-salary-dashboard/
 **Ajay Vinod N.K.**
 
 Aspiring Data Analyst
-
-## 📌 Disclaimer
-
-This project is intended for educational and portfolio purposes. The reported results depend on the dataset used. Please ensure the dataset can be shared publicly before publishing it on GitHub.
-<img width="1854" height="702" alt="image" src="https://github.com/user-attachments/assets/55850e33-d551-478c-89ea-bed33e289131" />
